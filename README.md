@@ -1,4 +1,4 @@
-# 🎙️ Voice Assistant – Node.js + React
+#  Voice Assistant – Node.js + React
 
 A full-stack voice assistant application built using Node.js (Express) and React (Vite).
 The backend uses a voice assistant API to process user queries and return intelligent responses.
