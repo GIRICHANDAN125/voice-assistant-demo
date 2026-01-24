@@ -5,7 +5,7 @@ The backend uses a voice assistant API to process user queries and return intell
 
 ---
 
-## Features
+#Features
 
 - Voice / text based interaction
 - API powered responses
@@ -17,7 +17,7 @@ The backend uses a voice assistant API to process user queries and return intell
 
 ---
 
-## Tech Stack
+#Tech Stack
 
 Frontend:
 - React
@@ -32,5 +32,5 @@ Backend:
 
 ---
 
-## Project Structure
+Project Structure
 
